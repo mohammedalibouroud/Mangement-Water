@@ -18,4 +18,16 @@ Education and Resources: The system can provide educational materials, tips, and
 Administrator Dashboard: Administrators have access to a centralized dashboard where they can manage user accounts, oversee campaign progress, and perform system maintenance tasks.
 
 Privacy and Security: The system ensures data privacy and security by implementing encryption techniques, user access controls, and regular backups of critical information.
+## Getting Started
+Clone the repository: git clone https://github.com/mohammedalibouroud/Mangement-Water.git
+ 
+Install the necessary dependencies.
+
+Set up the MySQL database and import the provided SQL schema.
+
+Configure the database connection in the PHP files.
+
+Start the web server (XAMPP).
+
+Access the application in your preferred web browser.
 
